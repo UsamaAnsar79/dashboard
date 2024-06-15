@@ -1,0 +1,140 @@
+[
+    {"title":"dashboard",
+     "icon":"bi-pie-chart"
+    },
+    {
+        "title": "Pages",
+        "icon": "bi-image",
+        "childrens": [
+            {
+                "title": "pricing",
+                "path": "/"
+            },
+            {
+                "title": "RTL SUPPORT",
+               
+                "path": "/"
+            },
+            {
+                "title": "TIMELINE"
+            },
+            {
+                "title": "LOGIN"
+               
+            },
+            {
+                "title": "REGISTER"
+               
+            },
+            {
+                "title": "LOCK SCREEN"
+               
+            },
+            {
+                "title": "USER PROFILE"
+               
+            }
+        ]
+    },
+    {
+        "title": "Component",
+        "icon": " bi-nut-fill",
+        "childrens": [
+            {
+                "title": "MULTI LEVEL COLLAPSE",
+                "path": "/",
+                "childrens":[
+                    {
+                        "title":"button"
+                    }
+                ]
+            },
+            {
+                "title": "BUTTONS"
+               
+            },
+            {
+                "title": "GRID SYSTEM"
+                
+            },
+            {
+                "title": "PANELS"
+            },
+            {
+                "title": "SWEET ALERT"
+            },
+            {
+                "title": "NOTIFICATIONS"
+            },
+            {
+                "title": "ICONS"
+            },
+            {
+                "title": "TYPOGRAPHY"
+            }
+        ]
+    },
+    {
+        "title": "FORMS",
+        "icon": "bi-journal-text",
+        "childrens": [
+            {
+                "title": "REGULAR FORMS"
+                
+            },
+            {
+                "title": "EXTENDED FORMS"
+            },
+            {
+                "title": "VALIDATION FORMS"
+            },
+            {
+                "title": "WIZARD"
+            }
+        ]
+    },
+    {
+        "title": "TABLES",
+        "icon": "bi-puzzle",
+        "childrens": [
+            {
+                "title": "REGULAR TABLES"
+                
+            },
+            {
+                "title": "EXTENDED TABLES" 
+            },
+            {
+                "title": "REACT TABLES" 
+            }
+        ]
+    },
+    {
+        "title": "MAPS",
+        "icon": "bi-pin-angle",
+        "childrens":[
+            {
+                "title": "GOOGLE MAPS" 
+            },
+            {
+                "title": "FULL SCREEN MAPS" 
+            },
+            {
+                "title": "VECTOR MAPS" 
+            }
+        ]
+        
+    },
+    {
+        "title": "WIDGETS",
+        "icon": "bi-tools"
+    },
+    {
+        "title": "CHARTS",
+        "icon": "bi-bar-chart"
+    },
+    {
+        "title": "CALENDAR",
+        "icon": " bi-alarm"
+    }
+]
